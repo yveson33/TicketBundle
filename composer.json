@@ -22,6 +22,12 @@
             "email": "github@ofdan.co.uk",
             "homepage": "http://www.hackzilla.org",
             "role": "Developer"
+        },
+        {
+            "name": "Bissaya Botele",
+            "email": "bissaya@gmail.com",
+            "homepage": "ybotele.com",
+            "role": "Developer"
         }
     ],
     "require": {
